@@ -1,0 +1,1 @@
+ cout<<"Name:" <<name <<" Roll No."<<roll<<" Class"<< classs;
