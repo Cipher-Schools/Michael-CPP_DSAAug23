@@ -1,0 +1,23 @@
+// Online C++ compiler to run C++ program online
+#include <iostream>
+using namespace std;
+int main() {
+    int x = 15;
+    char y = 'a';
+    // implecit conversion
+    x += y; // x = x+y;
+    
+    float z = x + 12.0;
+    
+    // Explicit conversion
+    float  x1 = 12.3;
+    int result = (int)x1 + 2;
+    cout<<result;
+    
+   
+
+    return 0;
+}
+
+
+???????????????????????????????
